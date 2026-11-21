@@ -1,0 +1,6 @@
+{
+  "name": "MobileTrace AI",
+  "description": "Mobile digital forensics workstation for authorized Android and iOS acquisition, SHA-256 verification, timeline analysis, and evidence-backed reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
